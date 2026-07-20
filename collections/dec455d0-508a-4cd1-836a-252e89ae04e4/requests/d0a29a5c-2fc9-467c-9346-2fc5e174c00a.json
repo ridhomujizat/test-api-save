@@ -134,5 +134,41 @@
     ],
     "url": "https://tenancy-dev.omnix.co.id/api/tenant/detail/demo?timestamp="
   },
+  "savedResponses": [
+    {
+      "id": "5868227d-b11d-4140-bbde-32e4a6cf21cf",
+      "name": "Success",
+      "response": {
+        "body": "{\"encrypt\":false,\"is_success\":true,\"tenant\":{\"name\":\"Demo\",\"tenant_id\":\"onx_dev\",\"tenant_code\":\"demo\",\"is_custom\":\"0\",\"color_setting\":{\"palette\":{\"primary\":{\"key\":\"default\",\"light\":\"#6E5FC9\",\"main\":\"#4F3EB7\",\"dark\":\"#3F3192\"}}},\"from_panel\":false,\"expired_at\":\"2027-01-01T16:59:59.000Z\",\"application\":[\"oms\",\"ccai\",\"mydx\",\"sales\",\"survey\",\"service\",\"marketer\"]},\"tenantId\":\"onx_dev\",\"isCustom\":\"0\"}",
+        "headers": {
+          "access-control-allow-credentials": "true",
+          "access-control-allow-headers": "Authorization, Accept, Origin, DNT, X-CustomHeader, Keep-Alive, User-Agent, X-Requested-With, If-Modified-Since, Cache-Control, Content-Type, Content-Range, Range, x-encrypt, x-time, x-tenant, x-browser, x-url, noencrypt, X-CPAAS-Encryption, X-CPAAS-Timestamp, X-CPAAS-Nonce, X-CPAAS-Encrypted-Request, X-CPAAS-Api-Version, X-CPAAS-User-Crypto-Session-Id, X-CPAAS-Key-Fingerprint, X-CPAAS-Tenant",
+          "access-control-allow-methods": "GET, POST, PUT, DELETE, PATCH, OPTIONS, HEAD",
+          "access-control-allow-origin": "*",
+          "access-control-max-age": "1728000",
+          "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+          "content-length": "398",
+          "content-security-policy": "frame-ancestors 'self' https://apivoip-dev.omnix.co.id https://omnix.co.id https://andien.finvue.id https://dev.omnix.co.id https://api-dev.omnix.co.id https://onx-staging.infomedia.co.id http://localhost:8000 http://localhost:3000 http://localhost:5173 https://api-dev-videocall.omnix.co.id https://asdp.id https://api-videocall.omnix.co.id https://apidev-videocall.onx.co.id https://ayosrc-call-center-staging.qiscus.io https://ayosrc-call-api.qiscus.com https://apm-rum.infomedia.co.id https://omni-x.dev https://*.omni-x.dev http://*.omni-x.dev;",
+          "content-type": "application/json; charset=utf-8",
+          "date": "Mon, 20 Jul 2026 16:27:04 GMT",
+          "etag": "W/\"18e-3OE0kkm729Yt5lJQ2bhUQ1+jz+4\"",
+          "permissions-policy": "camera=(\"self\" \"https://dev.omnix.co.id\" \"https://staging.omnix.co.id\" \"https://omnix.co.id\" \"https://form-builder-dev.omnix.co.id\" \"https://apm-rum.infomedia.co.id\" \"https://html-builder-dev.omnix.co.id\" \"https://ayosrc-call-center-fe.qiscus.io\" \"https://ayosrc-call-center-staging.qiscus.io\" \"https://ayosrc-call-api.qiscus.com\" \"https://zoom.us\" \"https://vc-banksinarmas-dev.omnix.co.id\" \"https://vc-byu-dev.omnix.co.id\"), microphone=(self \"https://dev.omnix.co.id\" \"https://staging.omnix.co.id\" \"https://omnix.co.id\" \"https://vc-banksinarmas-dev.omnix.co.id\" \"https://form-builder-dev.omnix.co.id\" \"https://html-builder-dev.omnix.co.id\" \"https://ayosrc-call-center-fe.qiscus.io\" \"https://ayosrc-call-center-staging.qiscus.io\" \"https://ayosrc-call-api.qiscus.com\" \"https://apm-rum.infomedia.co.id\" \"https://zoom.us\" \"https://vc-byu-dev.omnix.co.id\"), geolocation=(self \"https://dev.omnix.co.id\" \"https://staging.omnix.co.id\" \"https://omnix.co.id\" \"https://form-builder-dev.omnix.co.id\" \"https://html-builder-dev.omnix.co.id\" \"https://ayosrc-call-center-fe.qiscus.io\" \"https://ayosrc-call-center-staging.qiscus.io\" \"https://ayosrc-call-api.qiscus.com\" \"https://apm-rum.infomedia.co.id\" \"https://zoom.us\" \"https://vc-byu-dev.omnix.co.id\")",
+          "referrer-policy": "same-origin",
+          "server": "Omnix 2.0 with Love",
+          "set-cookie": "Path=/; HttpOnly; Secure",
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+          "via": "1.1 google",
+          "x-content-type-options": "nosniff",
+          "x-frame-options": "ALLOW-FROM https://*.omnix.co.id",
+          "x-powered-by": "IT APP CRM - Infomedia ?? 2023",
+          "x-robots-tag": "noindex, nofollow, noarchive, nosnippet, noimageindex"
+        },
+        "sizeBytes": 398,
+        "status": 201,
+        "statusText": "Created",
+        "timeMs": 156
+      }
+    }
+  ],
   "schemaVersion": 2
 }
