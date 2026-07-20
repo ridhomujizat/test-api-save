@@ -5,8 +5,14 @@
       "name": "New environment",
       "variables": [
         {
-          "enabled": false,
+          "enabled": true,
           "id": "jvok55wr",
+          "key": "saddsa",
+          "secret": true
+        },
+        {
+          "enabled": false,
+          "id": "wkugsz8f",
           "key": "",
           "secret": true
         }
