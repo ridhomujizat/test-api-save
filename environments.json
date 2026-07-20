@@ -23,8 +23,14 @@
       "name": "As dads",
       "variables": [
         {
-          "enabled": false,
+          "enabled": true,
           "id": "js0a3ttr",
+          "key": "Asdsda",
+          "secret": true
+        },
+        {
+          "enabled": false,
+          "id": "iveeth4j",
           "key": "",
           "secret": true
         }
