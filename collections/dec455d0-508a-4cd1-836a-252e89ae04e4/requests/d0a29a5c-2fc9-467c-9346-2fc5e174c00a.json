@@ -121,18 +121,18 @@
     "params": [
       {
         "enabled": true,
-        "id": "kc4bcw55",
+        "id": "si06tplm",
         "key": "timestamp",
-        "value": "340"
+        "value": ""
       },
       {
         "enabled": false,
-        "id": "g4nskdq1",
+        "id": "wc9s9anr",
         "key": "",
         "value": ""
       }
     ],
-    "url": "https://tenancy-dev.omnix.co.id/api/tenant/detail/demo?timestamp=340"
+    "url": "https://tenancy-dev.omnix.co.id/api/tenant/detail/demo?timestamp="
   },
   "schemaVersion": 2
 }
