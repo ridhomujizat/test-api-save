@@ -26,7 +26,8 @@
           "enabled": true,
           "id": "js0a3ttr",
           "key": "Asdsda",
-          "secret": true
+          "secret": false,
+          "value": "Adds"
         },
         {
           "enabled": false,
