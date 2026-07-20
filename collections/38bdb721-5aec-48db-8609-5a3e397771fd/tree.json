@@ -1,0 +1,10 @@
+{
+  "root": [
+    {
+      "id": "dd5586b8-7c63-42b2-a3ab-45dc13eef795",
+      "name": "GET request",
+      "type": "request"
+    }
+  ],
+  "schemaVersion": 2
+}

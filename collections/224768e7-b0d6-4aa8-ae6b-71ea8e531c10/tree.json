@@ -1,4 +1,10 @@
 {
-  "root": [],
+  "root": [
+    {
+      "id": "7f5cde66-e921-4702-b400-76632df08c3d",
+      "name": "New request",
+      "type": "request"
+    }
+  ],
   "schemaVersion": 2
 }

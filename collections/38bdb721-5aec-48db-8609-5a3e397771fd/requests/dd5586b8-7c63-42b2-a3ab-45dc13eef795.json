@@ -1,0 +1,42 @@
+{
+  "id": "dd5586b8-7c63-42b2-a3ab-45dc13eef795",
+  "name": "GET request",
+  "request": {
+    "auth": {
+      "type": "none"
+    },
+    "body": {
+      "formData": [
+        {
+          "enabled": false,
+          "id": "nubsbvvj",
+          "key": "",
+          "value": ""
+        }
+      ],
+      "raw": "",
+      "type": "none"
+    },
+    "headers": [
+      {
+        "enabled": false,
+        "id": "odn66blo",
+        "key": "",
+        "value": ""
+      }
+    ],
+    "id": "ed29a643-2d88-43d5-b67c-375a8e778e75",
+    "method": "GET",
+    "name": "GET request",
+    "params": [
+      {
+        "enabled": false,
+        "id": "h8cfenv6",
+        "key": "",
+        "value": ""
+      }
+    ],
+    "url": ""
+  },
+  "schemaVersion": 2
+}
