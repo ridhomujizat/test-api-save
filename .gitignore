@@ -1,0 +1,10 @@
+# TesAPI machine-local state
+*.local.json
+history.ndjson*
+session.json*
+*.bak
+*.corrupt-*
+*.migrated
+*.theirs.json
+*.base.json
+.tesapi-conflict.json

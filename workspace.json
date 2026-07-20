@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "ws-82269-1784518930624",
+  "name": "Testnes",
+  "syncType": "git",
+  "gitRemote": "https://github.com/ridhomujizat/test-api-save.git",
+  "gitBranch": "main"
+}
