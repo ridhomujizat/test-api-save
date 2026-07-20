@@ -2,3 +2,14 @@ history.ndjson
 history.ndjson.bak
 session.json
 session.json.bak
+
+# TesAPI machine-local state
+*.local.json
+history.ndjson*
+session.json*
+*.bak
+*.corrupt-*
+*.migrated
+*.theirs.json
+*.base.json
+.tesapi-conflict.json
