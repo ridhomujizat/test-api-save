@@ -1,4 +1,11 @@
 {
-  "root": [],
+  "root": [
+    {
+      "children": [],
+      "id": "a952365a-1ba3-430b-b222-1cbe6c3ed2a5",
+      "name": "New folder",
+      "type": "folder"
+    }
+  ],
   "schemaVersion": 2
 }
