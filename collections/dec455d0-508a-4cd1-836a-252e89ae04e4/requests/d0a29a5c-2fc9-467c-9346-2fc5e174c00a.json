@@ -1,0 +1,138 @@
+{
+  "id": "d0a29a5c-2fc9-467c-9346-2fc5e174c00a",
+  "name": "demo",
+  "request": {
+    "auth": {
+      "type": "none"
+    },
+    "body": {
+      "formData": [
+        {
+          "enabled": false,
+          "id": "lnyz0jjq",
+          "key": "",
+          "value": ""
+        }
+      ],
+      "raw": "{\"captcha\":\"0cAFcWeA41Op6R9G5-aZZvD8Uo_SMvUFgF7k9jvRmdi8NTm0Og0kseV14rsrJSacvjEIn_rd_5iIyuO8JTNDVnsfCpzXPGF1RubEMgCyvHHQIICxOPdh8xTIb5YV075Rtq1PwUZgcZN2SVOlWlc63VqCw36wZ63x2JUthS5w8zLAEzFd_xFzppyZuMfSe80tM2TF7M1Tt3oKgzrKVUZZn-m4iOxsyCACNoSDIIFMBF3ugqRKcqkgFwvVlLvpHZvb1VeY789tj8EwNKA1rgTx2xTeHUVhPwavLFYV1P6aYMJSacoPwN9TOm6Tk6rHs9EdfL0tTg27VcRcLagFxY84QPfVvz3Qwk0RPsetmqt6XU8fotRnqrZEzeVqrVNDpjvU3hJqTPqimyllh-2tv0Hp1TWwOlymzjO1uLY6QNaQeph5hBR51JGY31MaV4-B8dcCiYtDUVeCSvdtIlS-Ut7V66p26cS72QOkZoLCqmx18hZvm4JtxgYHsKFgqvTHvKwFTMYEgvO_a5ku3Umh3T24hC5yOPd3313w5w8IQOA00jyGIfdKBk7hJrdJ0Ubjw6FQ4HFnOFu5ZSyp1yF8ZFA_5_qO-03o_TOo9iHV_UuQSQlIz9JySSdtFgmbQ2Wesa8WRYw4xW6cFqku7btCdxYw0fcY_kbJpPrSMFFMd_8_JkkA2hAaumBYpBKLGPQo9Em0fAkjaG3Iv0KCXqxZcK-Gw4B5fBjXiISWgMLV5H64vOP1Tsj1sCSlyBXWcI131-FJOb1FqGbjNjt19FDLITwoIQIHKUr6iSAvW1JNwzCNX0LoNe_lRiVeW7CsGLFZGy7Oltvj6UL6IwbxrEt3Bhcv3YK9cWJ5te4XPOrrO_JPwPpGyM6OEvvuqAW7g_7eOcxjmiyTy3OtTKN-0eMlo7l4-2-Z_-ld3mYQgUZSeIPZgj02ITFcVvJdKG6nQSzQNT-qLaGCbBUlGdz0F3IDjybwr9_jg1TIczGIqF4L7zBmmeSBjHhQDS8GkvoNRqxuucBADPJsGWogiTaozHqH7nbK2y9XilRagcVYyqcyz9QgRBd-7CoEwGD4gll4LvbSuEUk3ZHZtTvT11FGI7SSgUMHxQTwu7tmkYUCS5JTAuqlfOepYwUwSwIBwRAGvLHf8Gz7fLsgWmRcNBvGNU0UsnPP3wMBikp3OYCJ6mnprKRTut4VHhU7GlyOUuLIRTxDTk8OszLUnXCc6tI_XIaHZE5SSegbjb9AOebsDMPohXnTI0-i22IrzvGGWEDwrnlzFpwzdyr8UGe1eQBWl6Z2hHCc4WS0FqRVROUnVsAmSviCP2SLHJd41sEek7pcms_NG4LvCWzS33hc9EUUbsXu1mVhgfB3TIYaRmqLLd_NOys9WJi1Ltnxo5uEZ073V8Hljnk9Umv7aGhrttOMs_JcWCD4NT1tyElRRr6Zy2bVwF8t5IxrLUxt_ow6SH4UBGB_sWKnpGo_45i4R5NhGmIpIUMLEI8FXsXd2Htlka9CM1riDDQtFLXIKh0lVup7C_DmteDNAWu-7xGs2uXq8CQ1MlDpk4xwOOFa3ssniIyE3KDRewZsXPBfEczptfVpCFpjku7NSbM53dEWlelHtPYsb8sqjGKrTsWUOdZNuEOeU8TE1pk3jVgs8ZOEcPWXP8mKj4csHcsX4b8Nd9w7kOb60RYRHDazZDNnJ7LgboKCVbX_-_qf_A9Ha4hjl1zkEyu2STW7gXi3jpq8Jhwd0q3utT7SH9QqvleY5XeD8BDA6br5qag6jyg3J97EweiD58TDZG6DNo7ueUt36Cq6U5aHr_StsijRG-DeW7gBNYdXuDg9fxgsRwEhlGIlruqpO4aJVmrwUHvykmm7uJuSTdgA315MUl_tUurenij0CRarrQQm_Nb6l2jLmr_kjEILQKM80gBJo8eFjh_-Sbc1FMKr_L4bSw3-rjVhGg-edYewgmtL6_synsKM0ca46BGLJmGVxgoHNKBogShfHstTyB4BnFasRQv1w9oFYJhtaKuPuWjh1teijh9wTfpsucDb2m00cLy13NVA4qf51ccP5VskfdgC6t9kjg_F95VOz0YYXsCkrunmVXHjFFSBPKQCkJULnOc600K4KNgIFz3RhWnqvNGHwbjajIj69tG3wiAy4mlLfiliM3Fahh6m3mjcfEmLAoDMlan-RcTLUxKeU-0ht7repBY9x8c0WkemqFQg\"}",
+      "type": "json"
+    },
+    "headers": [
+      {
+        "enabled": true,
+        "id": "655b0ca2-fdc2-4c23-bffe-3a122111eae7",
+        "key": "accept",
+        "value": "application/json, text/plain, */*"
+      },
+      {
+        "enabled": true,
+        "id": "0c7ec120-fa3c-49e0-bf0e-4f76981b4f19",
+        "key": "accept-language",
+        "value": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"
+      },
+      {
+        "enabled": true,
+        "id": "d2b8d69d-f3e8-4fb2-8431-e02e89697725",
+        "key": "cache-control",
+        "value": "no-cache"
+      },
+      {
+        "enabled": true,
+        "id": "8fbed3eb-5d5f-4739-8345-a2f29a05f464",
+        "key": "content-type",
+        "value": "application/json"
+      },
+      {
+        "enabled": true,
+        "id": "877f7226-e462-472e-a400-e19c4ae5c314",
+        "key": "origin",
+        "value": "http://localhost:8000"
+      },
+      {
+        "enabled": true,
+        "id": "39816763-1603-4dac-a571-66f197702e44",
+        "key": "pragma",
+        "value": "no-cache"
+      },
+      {
+        "enabled": true,
+        "id": "db073ec9-47b4-4bbb-8a7b-2bd79ba97d31",
+        "key": "priority",
+        "value": "u=1, i"
+      },
+      {
+        "enabled": true,
+        "id": "5c8200d7-d7c8-4411-81b5-a65c06e8657c",
+        "key": "referer",
+        "value": "http://localhost:8000/"
+      },
+      {
+        "enabled": true,
+        "id": "e2f6eb83-6eaf-4b7e-bee0-bc6bff181420",
+        "key": "sec-ch-ua",
+        "value": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\", \"Google Chrome\";v=\"150\""
+      },
+      {
+        "enabled": true,
+        "id": "99946e5e-d60d-4c9c-b626-c58fe1668a1a",
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+      },
+      {
+        "enabled": true,
+        "id": "cc768d66-a458-41e8-9dbd-8771709ae362",
+        "key": "sec-ch-ua-platform",
+        "value": "\"macOS\""
+      },
+      {
+        "enabled": true,
+        "id": "1ee4e00b-f8f2-4125-8b95-e9b3c763ff55",
+        "key": "sec-fetch-dest",
+        "value": "empty"
+      },
+      {
+        "enabled": true,
+        "id": "a841d2e4-ae4b-411b-aa86-1caecf754082",
+        "key": "sec-fetch-mode",
+        "value": "cors"
+      },
+      {
+        "enabled": true,
+        "id": "d771c72c-b312-4b7c-b728-fd29d1efab3f",
+        "key": "sec-fetch-site",
+        "value": "cross-site"
+      },
+      {
+        "enabled": true,
+        "id": "85674e70-c59f-4524-971c-bdbe55952528",
+        "key": "user-agent",
+        "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+      },
+      {
+        "enabled": false,
+        "id": "1oqpxyx8",
+        "key": "",
+        "value": ""
+      }
+    ],
+    "id": "2817afcc-c3c7-43ca-a513-f4f8cf928cf0",
+    "method": "POST",
+    "name": "demo",
+    "params": [
+      {
+        "enabled": true,
+        "id": "kc4bcw55",
+        "key": "timestamp",
+        "value": "340"
+      },
+      {
+        "enabled": false,
+        "id": "g4nskdq1",
+        "key": "",
+        "value": ""
+      }
+    ],
+    "url": "https://tenancy-dev.omnix.co.id/api/tenant/detail/demo?timestamp=340"
+  },
+  "schemaVersion": 2
+}
