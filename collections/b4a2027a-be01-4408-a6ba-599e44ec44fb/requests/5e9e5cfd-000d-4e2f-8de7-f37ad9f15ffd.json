@@ -3,13 +3,14 @@
   "name": "dsaasddsa",
   "request": {
     "auth": {
-      "type": "none"
+      "token": "dummy_token",
+      "type": "bearer"
     },
     "body": {
       "formData": [
         {
           "enabled": false,
-          "id": "c9hz6u7c",
+          "id": "pi29usuv",
           "key": "",
           "value": ""
         }
@@ -19,24 +20,30 @@
     },
     "headers": [
       {
+        "enabled": true,
+        "id": "b63cb0a3-c6a1-41cc-892b-3c4ac1009584",
+        "key": "Accept",
+        "value": "application/json"
+      },
+      {
         "enabled": false,
-        "id": "rk6zpr2b",
+        "id": "tz6wwrc2",
         "key": "",
         "value": ""
       }
     ],
-    "id": "7d276f4c-edf2-43ee-a3a8-d5fd54e1b48f",
+    "id": "cb7e7cc9-57a6-45d5-ade4-deab35d81a19",
     "method": "GET",
     "name": "dsaasddsa",
     "params": [
       {
         "enabled": false,
-        "id": "jnb444i0",
+        "id": "rc0ujwj9",
         "key": "",
         "value": ""
       }
     ],
-    "url": ""
+    "url": "https://jsonplaceholder.typicode.com/users/1"
   },
   "schemaVersion": 2
 }
