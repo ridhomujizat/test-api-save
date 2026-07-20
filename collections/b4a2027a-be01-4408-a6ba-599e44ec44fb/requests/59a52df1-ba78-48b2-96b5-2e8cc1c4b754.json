@@ -1,0 +1,42 @@
+{
+  "id": "59a52df1-ba78-48b2-96b5-2e8cc1c4b754",
+  "name": "dsaasddsa copy",
+  "request": {
+    "auth": {
+      "type": "none"
+    },
+    "body": {
+      "formData": [
+        {
+          "enabled": false,
+          "id": "c9hz6u7c",
+          "key": "",
+          "value": ""
+        }
+      ],
+      "raw": "",
+      "type": "none"
+    },
+    "headers": [
+      {
+        "enabled": false,
+        "id": "rk6zpr2b",
+        "key": "",
+        "value": ""
+      }
+    ],
+    "id": "44aa2d27-3674-486c-a014-aff3c750236a",
+    "method": "GET",
+    "name": "dsaasddsa copy",
+    "params": [
+      {
+        "enabled": false,
+        "id": "jnb444i0",
+        "key": "",
+        "value": ""
+      }
+    ],
+    "url": ""
+  },
+  "schemaVersion": 2
+}
