@@ -1,0 +1,42 @@
+{
+  "id": "f8063a01-91cf-45a1-acfb-d28c441ed723",
+  "name": "Sda",
+  "request": {
+    "auth": {
+      "type": "none"
+    },
+    "body": {
+      "formData": [
+        {
+          "enabled": false,
+          "id": "j3bmrzw2",
+          "key": "",
+          "value": ""
+        }
+      ],
+      "raw": "",
+      "type": "none"
+    },
+    "headers": [
+      {
+        "enabled": false,
+        "id": "o95w85rd",
+        "key": "",
+        "value": ""
+      }
+    ],
+    "id": "6b4a3e5d-95e4-43e7-9566-96e2de803b04",
+    "method": "GET",
+    "name": "Sda",
+    "params": [
+      {
+        "enabled": false,
+        "id": "9yj1zugl",
+        "key": "",
+        "value": ""
+      }
+    ],
+    "url": ""
+  },
+  "schemaVersion": 2
+}
