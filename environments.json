@@ -1,4 +1,17 @@
 {
-  "environments": [],
+  "environments": [
+    {
+      "id": "2242839f-8241-4560-a494-fa555f71b846",
+      "name": "New environment",
+      "variables": [
+        {
+          "enabled": false,
+          "id": "jvok55wr",
+          "key": "",
+          "secret": true
+        }
+      ]
+    }
+  ],
   "schemaVersion": 2
 }
