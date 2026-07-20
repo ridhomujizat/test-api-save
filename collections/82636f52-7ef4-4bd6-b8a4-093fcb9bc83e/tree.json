@@ -1,7 +1,13 @@
 {
   "root": [
     {
-      "children": [],
+      "children": [
+        {
+          "id": "f8063a01-91cf-45a1-acfb-d28c441ed723",
+          "name": "New request",
+          "type": "request"
+        }
+      ],
       "id": "a952365a-1ba3-430b-b222-1cbe6c3ed2a5",
       "name": "New folder",
       "type": "folder"
